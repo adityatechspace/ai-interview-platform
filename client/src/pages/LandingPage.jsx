@@ -54,7 +54,7 @@ export default function LandingPage() {
             Walk into your next interview already having done it once.
           </h1>
           <p className="mx-auto mt-4 max-w-lg text-base leading-relaxed text-text-secondary sm:text-lg">
-            Prepwise runs a full mock interview tailored to your role and difficulty, then gives you a
+            Moccus runs a full mock interview tailored to your role and difficulty, then gives you a
             structured score and feedback — in minutes, not days.
           </p>
           <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
