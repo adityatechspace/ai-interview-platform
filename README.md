@@ -1,4 +1,4 @@
-# Prepwise — AI Interview Platform (MVP)
+# Moccus — AI Interview Platform (MVP)
 
 A full-stack mock interview platform. Configure a role, difficulty, and format, then work through an
 8-question AI-driven interview and get a structured, scored feedback report at the end.

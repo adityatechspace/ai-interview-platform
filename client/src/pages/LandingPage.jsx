@@ -103,7 +103,7 @@ export default function LandingPage() {
       <section className="border-t border-line bg-surface-soft py-20">
         <div className="container-page">
           <div className="mx-auto max-w-xl text-center">
-            <span className="eyebrow">Why Prepwise</span>
+            <span className="eyebrow">Why Moccus</span>
             <h2 className="mt-3 text-2xl font-semibold tracking-tight text-ink-950 sm:text-3xl">
               Everything you need to walk in prepared
             </h2>

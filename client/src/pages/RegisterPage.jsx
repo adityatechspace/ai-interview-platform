@@ -29,7 +29,7 @@ export default function RegisterPage() {
   const onSubmit = async (values) => {
     try {
       await registerUser(values);
-      toast.success('Account created. Welcome to Prepwise.');
+      toast.success('Account created. Welcome to Moccus.');
       navigate('/dashboard');
     } catch (err) {
       toast.error(err.message);
